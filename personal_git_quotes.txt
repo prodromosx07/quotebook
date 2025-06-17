@@ -1,2 +1,3 @@
 Learning about git branching!!!
-I like the colour blac
+I like the colour black
+Now its time to learn about pulling
