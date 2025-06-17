@@ -3,3 +3,5 @@ hello there
 mastering git
 
 Live long and learn git?
+
+another quote added
